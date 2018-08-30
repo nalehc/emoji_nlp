@@ -1,6 +1,9 @@
 # Getting Emoji-nal
 Applying nlp to emoji
 
+### See a presentation on this project at the link below:
+https://docs.google.com/presentation/d/16VzuzbrGNU58J_rTG05jiAhSMCE1RwrH2npMjmCQ8bc/edit?usp=sharing
+
 ## Background
 
 As of 2016, 92% of the online population use emoji to communicate to each other. I wanted to try and apply NLP techniques to these characters to analyze reddit comments. By doing this, the thought was that the emoji might provide additional meaning and sentiment value to the text beyond just the words. 
